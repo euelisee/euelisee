@@ -1,8 +1,8 @@
 ### Hellooo 👋
 ### My name is Elise, I'm a back-end developer! 💻📱
 
-🌱 I’m currently learning JAVA
-🤔 I’m looking for help with JAVA
+-🌱 I’m currently learning JAVA
+-🤔 I’m looking for help with JAVA
 
   <div>
   <a href="https://github.com/euelisee">
