@@ -1,49 +1,75 @@
-### Hellooo 👋
-### My name is Elise, I'm a back-end developer! 💻📱
+# Hi, I'm Elise, but you can call me Lise 👋!
+<!-- Banner -->
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
- <div>
-  <a href="https://github.com/euelisee">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=euelisee&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euelisee&layout=compact&langs_count=7&theme=gotham"/>
+---
+## About Me
+- Software developer with experience in financial-sector projects and high-complexity systems.  
+- Full-stack profile in progress: strong back-end background, improving my front-end and expanding into new stacks.  
+- Volunteers at Developers Girls: I love supporting women entering tech and sharing knowledge.  
+- Analytical, curious, fast learner and focused on solving problems with clarity.  
+- Passionate about creating, improving and learning continuously.  
+- Outside tech: DIY, art, photography, cozy cafés, anime, Nintendo Switch, and my dogs.  
+
+---
+
+## Skill Set:
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Frontend  
+<a href="https://github.com/euelisee">
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&perline=4" />
 </div>
+</a>
 
-  
- ##
- 
- <h3>Technologies that I used in projects</h3>
-<div style="display: inline_block"><br>
-   <img align="center" alt="elise-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-   <img align="center" alt="elise-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-   <img align="center" alt="elise-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
- </div> 
+</td>
+<td valign="top" width="33%">
 
-  
- ##
- 
- <h3>Tools</h3>
-<div style="display: inline_block"><br>
-   <img align="center" alt="elise-gitlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
-   <img align="center" alt="elise-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-   <img align="center" alt="elise-postman" height="40" width="40" src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png">
-   <img align="center" alt="elise-wind" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/38/38466.png">
-   <img align="center" alt="elise-ibm" height="40" width="60" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/200201718/original/348727962ef180e764e7fbd3e3181e4e0fbf0fec/design-and-develop-ibm-integration-bus-datapower-service.png">
-  <img align="center" alt="elise-eclipse" height="40" width="50" src="https://d1.awsstatic.com/sdks-and-tools/eclipse%20icon%201.3778a4cbe978d8dfd73c091706e26aa6c57c65aa.jpeg">
-  </div> 
-
-
- ##
- 
-   <div> 
-  <a href="https://instagram.com/euelise" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:euelisee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/euelise" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://twitter.com/deveulise" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+### Languages  
+<a href="https://github.com/euelisee">
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,cs,python,js,nodejs&perline=4" />
 </div>
+</a>
 
- ##
- 
-   ![Snake animation](https://github.com/euelisee/euelisee/blob/output/github-contribution-grid-snake.svg)
+</td>
+<td valign="top" width="33%">
+
+### Others  
+<a href="https://github.com/euelisee">
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,postman,figma,vscode,idea,postgres&perline=4" />
 </div>
-  
-  
-  
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Connect with me
+
+<p>
+  <a href="https://instagram.com/euelise"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:euelisee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/euelise"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<h2 align="center"> 💻 Check Out My Repos ⬇️ </h2>
